@@ -5,12 +5,12 @@ variable "region" {
 
 variable "AWS_SECRET_KEY" {
   description = "secret access key"
-  default = "EScnywTkj/75dK2b5MvmtFg/OoAnA1XdaYgPmneL"
+  default = ""
 }
 
 variable "AWS_ACCESS_KEY" {
   description = "access key details"
-  default = "AKIAY5V7XK53AAOK35DW"
+  default = ""
 }
 
 variable "availability_zone" {
